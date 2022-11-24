@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@400;800&family=Poppins:wght@500&display=swap');
+
+body{
+	font-family: 'Poppins', sans-serif;
+	border: 50px;
+	padding: 15px;
+	width: 700px;
+	margin: 20px auto;
+}
